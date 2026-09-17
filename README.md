@@ -1,10 +1,15 @@
 # Sabari Nathan C., PhD
 
-**Engineering Geologist · Geohazards Researcher**
+[![GitHub followers](https://img.shields.io/github/followers/sabari-nc?label=Follow&style=social)](https://github.com/sabari-nc?tab=followers)
+[![Portfolio](https://img.shields.io/badge/Portfolio-167D9A?style=flat&logo=github&logoColor=white)](https://sabari-nc.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&hl=en)
+[![Publications](https://img.shields.io/badge/Publications-7356A6?style=flat)](https://sabari-nc.github.io/publications/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9876-1657)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00A99D?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sabari-Nathan-C)
 
-I study slope failures and their impact on mountain infrastructure. My work brings together field geophysics, geospatial analysis, and machine learning to investigate landslide processes, model and map susceptible terrain.
+I'm an **Engineering Geologist and Geohazards Researcher** studying slope failures and their impact on **mountain infrastructure**. My work combines **field geophysics, geospatial analysis, and machine learning** to understand landslide processes and map susceptible terrain.
 
-[Portfolio](https://sabari-nc.github.io/) · [Publications](https://sabari-nc.github.io/publications/) · [Google Scholar](https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-9876-1657)
+I share research code, models, and maps from my studies of landslides, rainfall, and slope stability.
 
 ## Selected projects
 
