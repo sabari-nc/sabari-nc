@@ -1,64 +1,22 @@
 # Sabari Nathan C., PhD
 
-### Engineering geology · Geohazards · Geospatial research
+**Engineering Geologist · Landslide Researcher**
 
-**Understanding why slopes fail — and where they may fail next.**
+I study why slopes fail and how landslides affect mountain roads and railways. My research combines field observations, geophysics, mapping, and machine learning, with a focus on the Western Ghats of India.
 
-I study slope failures and their impact on mountain infrastructure. My work brings together field geophysics, geospatial analysis, and machine learning to investigate landslide processes and map susceptible terrain, with a focus on the Western Ghats of India.
+[Portfolio](https://sabari-nc.github.io/) · [Publications](https://sabari-nc.github.io/publications/) · [Google Scholar](https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-9876-1657)
 
-[**Portfolio ↗**](https://sabari-nc.github.io/) · [**Publications ↗**](https://sabari-nc.github.io/publications/) · [**Google Scholar ↗**](https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&hl=en) · [**ORCID ↗**](https://orcid.org/0000-0001-9876-1657)
+## Selected projects
 
----
+### [Nilgiri Mountain Railway](https://github.com/sabari-nc/nilgiri-mountain-railway-lsm)
+Mapping landslide-prone slopes along the railway using machine learning. Includes research code, a trained model, and maps.
 
-## Featured research
+### [Rainfall and landslides in the Nilgiris](https://github.com/sabari-nc/Nilgiris-Rainfall-and-Landslide-Susceptibility-AHP-Method-)
+Studying how changing rainfall patterns relate to landslide frequency and intensity.
 
-### 01 / Landslides along the Nilgiri Mountain Railway
+### [Slope stability in Thiruvannamalai](https://github.com/sabari-nc/thiruvannamalai-landslide-susceptibility)
+Assessing where landslides may occur and how rainfall affects slope stability.
 
-Machine learning for landslide susceptibility mapping along a mountain transport corridor in southern India. The repository includes code, a trained XGBoost model, and susceptibility rasters.
+## Research interests
 
-**Methods:** XGBoost · Geospatial modelling · MATLAB
-
-[Explore the project →](https://github.com/sabari-nc/nilgiri-mountain-railway-lsm)
-
-### 02 / Rainfall & landslide susceptibility in the Nilgiris
-
-Research on changing rainfall patterns and their relationship to landslide frequency and intensity in the Nilgiris District of the Western Ghats.
-
-**Methods:** Analytical Hierarchy Process (AHP) · Rainfall analysis · Susceptibility mapping
-
-[Explore the project →](https://github.com/sabari-nc/Nilgiris-Rainfall-and-Landslide-Susceptibility-AHP-Method-)
-
-### 03 / Rainfall-triggered slope instability in Thiruvannamalai
-
-Landslide susceptibility assessment and rainfall-triggered slope stability analysis, combining statistical mapping with physically based modelling.
-
-**Methods:** Frequency Ratio · TRIGRS · Slope stability
-
-[Explore the project →](https://github.com/sabari-nc/thiruvannamalai-landslide-susceptibility)
-
----
-
-## Research questions
-
-| Focus | What I investigate |
-| :--- | :--- |
-| **Below the surface** | Weathered zones, water pathways, and weak layers that control slope failure. |
-| **Natural & human triggers** | How rainfall, traffic, construction, and land-use change affect fragile slopes. |
-| **Predicting susceptibility** | Using ground-truth inventories and machine learning to identify failure-prone terrain. |
-| **Infrastructure resilience** | How landslides affect mountain roads and railways, and where mitigation matters most. |
-
-## Background
-
-**PhD** — Centre for Disaster Mitigation and Management, Vellore Institute of Technology (VIT)  
-**M.Sc. Applied Geology** — University of Madras  
-**B.Sc. Geology** — Thiruvalluvar University
-
-Experience includes teaching and research at VIT, earthquake geophysics at the Wadia Institute of Himalayan Geology, and hydrogeology at the Central Ground Water Board.
-
----
-
-### Explore more
-
-Visit my [research portfolio](https://sabari-nc.github.io/) for more about my work, browse my [publications](https://sabari-nc.github.io/publications/), or connect through [ORCID](https://orcid.org/0000-0001-9876-1657).
-
-*Geoscientist. Bon vivant. Always curious.*
+Landslide processes · Rainfall and slope stability · Mountain infrastructure · Geospatial analysis
