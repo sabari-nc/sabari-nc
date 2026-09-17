@@ -1,8 +1,8 @@
 # Sabari Nathan C., PhD
 
-**Engineering Geologist · Landslide Researcher**
+**Engineering Geologist · Geohazards Researcher**
 
-I study why slopes fail and how landslides affect mountain roads and railways. My research combines field observations, geophysics, mapping, and machine learning, with a focus on the Western Ghats of India.
+I study slope failures and their impact on mountain infrastructure. My work brings together field geophysics, geospatial analysis, and machine learning to investigate landslide processes, model and map susceptible terrain.
 
 [Portfolio](https://sabari-nc.github.io/) · [Publications](https://sabari-nc.github.io/publications/) · [Google Scholar](https://scholar.google.co.in/citations?user=31xfF3UAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-9876-1657)
 
